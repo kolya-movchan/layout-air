@@ -1,4 +1,4 @@
-[DEMO LINK](https://kolya-movchan.github.io/layout-dia/)
+[DEMO LINK](https://kolya-movchan.github.io/layout-air/)
 
 ## Introduction
 Air is a modern and stylish landing page that represents a strategic agency specializing in innovative tech ideas and solutions.
