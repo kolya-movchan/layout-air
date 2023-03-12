@@ -39,11 +39,11 @@
 
   &__learn-more-block {
     &:hover .card__learn-more-link {
-      color: $services-learn-more-color; 
+      color: $services-learn-more-color;
     }
   
-    &:hover .card__learn-more-arrow { 
-      background-color: $services-learn-more-color; 
+    &:hover .card__learn-more-arrow {
+      background-color: $services-learn-more-color;
     }
   }
 
@@ -66,6 +66,6 @@
     line-height: 22px;
     font-weight: $font-weight-2nd;
     color: #334563;
-    transition: background-color $main-transition-duration;
+    transition: color $main-transition-duration;
   }
 }

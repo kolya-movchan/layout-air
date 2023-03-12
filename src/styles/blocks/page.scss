@@ -14,6 +14,13 @@
   }
 
   &__button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 20px 48px;
+
+    width: 100%;
+
     @include onTablet {
       width: 264px;
     }
@@ -27,6 +34,12 @@
         background-color: rgb(19, 68, 184);
       }
     }
+  }
+
+  &__button-container {
+    padding: 0 20px;
+
+    // @include on
   }
 
   &__global-hover {
